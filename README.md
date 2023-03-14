@@ -1,2 +1,2 @@
-# GityGithubPruebas
+# Curso Git y Github
  
